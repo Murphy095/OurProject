@@ -1,5 +1,12 @@
 ECE 2021
 
 AUTHORS:
-Emilie Murphy 
+Emilie Murphy
 Keziah Joseph
+
+
+
+working locally:
+
+
+
