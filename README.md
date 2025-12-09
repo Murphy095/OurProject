@@ -57,3 +57,15 @@ Git uses three logical areas to manage changes:
 10. Merging
 	•Used to combine work from different branches into one
 	•Git highlights merge conflicts when two versions change the same text
+
+
+Important topics – part 2 (working remote)
+1.	Github uses
+	creating repositories in github 
+	inviting collaborators 
+	kanban board
+
+2.	Useful commands 
+	clone
+	push
+	pull
